@@ -1,7 +1,7 @@
 
 # Modelo estructural de la tasa de desempleo
 
-Modelo de **espacio de estados (State-Space)** para analizar y pronosticar la tasa de desempleo mediante una descomposición en **nivel, tendencia y estacionalidad**.
+Modelo de **espacio de estados** para analizar y pronosticar la tasa de desempleo mediante una descomposición en **nivel, tendencia y estacionalidad**.
 
 ## Metodología
 
